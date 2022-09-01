@@ -872,13 +872,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .contact-footer__mail {
   color: inherit;
-  background: url('/img/footer/contact/sms.svg') 0 0/20px 17px no-repeat;
+  background: url('../img/footer/contact/sms.svg') 0 0/20px 17px no-repeat;
   line-height: 20px;
   padding: 0px 0px 0px 30px;
 }
 .contact-footer__adress {
   color: inherit;
-  background: url('/img/footer/contact/location.svg') 0 0/17.25px 20px no-repeat;
+  background: url('../img/footer/contact/location.svg') 0 0/17.25px 20px no-repeat;
   line-height: 20px;
   padding: 0px 0px 0px 30px;
   width: 100%;
