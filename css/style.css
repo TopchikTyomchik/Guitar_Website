@@ -196,6 +196,7 @@ h1, h2, h3, h4, h5, h6 {
  }
 .main__media {
   display: flex;
+  align-items: center;
 }
 .main__media:not(:last-child) {
   margin-right: 20px
